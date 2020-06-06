@@ -1,0 +1,119 @@
+.landing {
+  list-style: none;
+  width: 100vw;
+  height: 100vh;
+  background-color: white;
+  color:black;
+  font-family: Proxima Nova;
+  font-size: 24pt;
+
+}
+
+.signupB{
+ background-color:#022851;
+  border-radius:20px;
+  text-decoration: none;
+  color: white;
+  font-family: Open Sans;
+  width:100px;
+  height:40px;
+  font-size: 14pt;
+  font-weight: bold;
+  text-align: center;
+  align-content: center;
+}
+.loginB{
+ background-color:#FFBF00;
+  border-radius:20px;
+  text-decoration: none;
+  color: white;
+  font-family: Open Sans;
+  width:100px;
+  height:40px;
+  font-size: 14pt;
+  font-weight: bold;
+   text-align: center;
+   align-content: center;
+
+}
+
+.bTxt{
+ line-height: 0px;
+}
+
+Button{
+  align-content: center;
+}
+
+
+Nav {
+  display: flex;
+  box-shadow: black;
+  align-items: center;
+  justify-content: space-around;
+  min-height: 7vh;
+  color: #000;
+  margin: 10px;
+}
+.welcome {
+  height: 10vh;
+  width: 100vw;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  /*align-items: center;
+  justify-content: space-around;*/
+  text-align: center;
+}
+.PictureCard {
+  height: 400px;
+  width: 250px;
+  background-color: #EAEAEA;
+  border-radius: 16px;
+  margin: 20px;
+  font-family:Open Sans;
+  font-size: 12pt;
+  color:black;
+  align-content: center;
+
+}
+
+.name{
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  margin:auto;
+}
+
+.logo{
+  position: absolute;
+  width: 10%;
+  left: 10px;
+}
+
+.search{
+  display: flex;
+  align-items: flex-start;
+  background-color:#EFEFEF;
+  border-radius:20px;
+  width: 50%;
+  margin-left: 90px;
+  height:40px;
+
+}
+
+.searchIcon{
+  width: 20px;
+  padding: 10px;
+
+}
+
+.profileContainer{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  width:100%;
+  height:100%;
+ /* width: 1024px;*/
+  align-content: space-between;
+}
+

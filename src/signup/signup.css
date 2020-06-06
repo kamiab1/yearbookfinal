@@ -1,0 +1,56 @@
+@media screen and (min-width: 481px) {
+  .signUpPage {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    background-color: white;
+  }
+
+  .img {
+    display: inline-block;
+    width: 50vw;
+    height: 100vh;
+  }
+
+  .signUpField {
+    display: inline-block;
+    width: 50vw;
+    height: 100vh;
+    background-color: white;
+    vertical-align: middle;
+    text-align: center;
+  }
+  .center {
+    display: inline-block;
+    margin-top: 35vh;
+  }
+}
+@media screen and (max-width: 480px) {
+  .MobileLogo {
+    margin: auto;
+    margin-top: 10%;
+  }
+  .signUpPage {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    background-color: white;
+  }
+
+  .img {
+    display: none;
+  }
+
+  .logInField {
+    display: inline-block;
+    width: 100vw;
+    height: 100vh;
+    background-color: white;
+    vertical-align: middle;
+    text-align: center;
+  }
+  .center {
+    display: inline-block;
+    margin-top: 10vh;
+  }
+}
