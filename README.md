@@ -1,6 +1,12 @@
 for a full version of the code with all the npm modules please go to the link below
 to download the zip file
 
+everything was added to github instead of glitch because glicth didnt have enough memory for our project
+
+professor Amenta allowed us to publish our work on github so the project can be graded on the local machine
+
+the link below has the video of the working project and the full source code as well
+
 [Link to google drive for full project and video](https://drive.google.com/drive/folders/1GPh0-80xG0R-Tq1hC4BrAC-iteVMPpRq?usp=sharing)
 
 ### `START`
