@@ -1,7 +1,7 @@
 for a full version of the code with all the npm modules please go to the link below
 to download the zip file
 
-[a link](https://drive.google.com/drive/folders/1GPh0-80xG0R-Tq1hC4BrAC-iteVMPpRq?usp=sharing)
+[Link to google drive for full project and video](https://drive.google.com/drive/folders/1GPh0-80xG0R-Tq1hC4BrAC-iteVMPpRq?usp=sharing)
 
 ### `START`
 
