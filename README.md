@@ -9,7 +9,7 @@ the link below has the video of the working project and the full source code as 
 
 [Link to google drive for full project and video](https://drive.google.com/drive/folders/1GPh0-80xG0R-Tq1hC4BrAC-iteVMPpRq?usp=sharing)
 
-### `START`
+### `project`
 
 Our project should pop up in your browser
 The first page you see is the landing page where you can do a search of the existing profiles
