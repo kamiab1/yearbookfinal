@@ -20,6 +20,23 @@
     vertical-align: middle;
     text-align: center;
   }
+  #collegeSelector {
+    width: 50px;
+  }
+  .dropdown {
+    display: inline-block;
+    width: 200px;
+    margin: 30px;
+  }
+  .radioField {
+    display: inline-block;
+    width: 200px;
+    margin: 30px;
+  }
+  .radioGroup {
+    color: black;
+    background-color: white;
+  }
   .center {
     display: inline-block;
     margin-top: 35vh;

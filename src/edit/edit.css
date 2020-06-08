@@ -1,0 +1,243 @@
+@media screen and (min-width: 481px) {
+  .profile {
+    width: 100vw;
+    height: 100vh;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+  }
+  .picCont {
+    margin-top: 90px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 5%;
+  }
+  .logo {
+    width: 15%;
+  }
+  .backMobile {
+    display: none;
+  }
+  #upload {
+    height: 50px;
+    color: #000;
+    width: 90px;
+    /* border-radius: 50px; */
+    /* background-color: red; */
+    margin-left: 23%;
+    margin-top: -35%;
+    margin-bottom: 45%;
+  }
+  .addpic {
+    /* background-color: yellow; */
+  }
+
+  .heading {
+    width: 90%;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    height: 60px;
+    justify-content: space-evenly;
+  }
+  .search {
+    border-style: none;
+    color: black;
+    background-color: #f1f1f1;
+    margin-left: 20%;
+    width: 60%;
+  }
+  .searchTool {
+    text-align: left;
+    margin-right: 5px;
+  }
+  .mic {
+    margin-left: 5px;
+  }
+  .Login {
+    color: white;
+    text-align: center;
+    background-color: #ffbf00;
+    font-size: 30px;
+    border-radius: 30px;
+    height: 60px;
+    width: 180px;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+  .loginlogo {
+    display: none;
+  }
+  .Signup {
+    color: white;
+    text-align: center;
+    background-color: #022851;
+    font-size: 30px;
+    border-radius: 30px;
+    height: 60px;
+    width: 180px;
+  }
+  .card {
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    height: 60%;
+    width: 75%;
+    background-color: #f1f1f1;
+    border-radius: 15px;
+  }
+  .profilePic {
+    margin: 10%;
+    margin-top: auto;
+    margin-bottom: auto;
+    border-radius: 10px;
+    border-style: solid;
+    width: 300px;
+    height: 300px;
+    border-color: black;
+  }
+
+  .Info {
+    margin-top: 2%;
+    margin-left: 15%;
+    text-align: left;
+    color: black;
+    width: 200px;
+  }
+  .Name {
+    font-weight: bold;
+    font-size: 40px;
+    top: 20px;
+  }
+  .bio {
+    font-size: 15px;
+    font-weight: none;
+  }
+  .question {
+    font-size: 15px;
+    font-weight: bold;
+  }
+  .answer {
+    font-size: 10px;
+    font-weight: none;
+  }
+  .save {
+    margin-top: 20%;
+    color: black;
+    font-size: 30px;
+    margin-left: 15%;
+  }
+  .back {
+    position: absolute;
+    left: 20px;
+    border-radius: 15px;
+    width: 20px;
+    font-size: 25px;
+    margin-left: 47.75%;
+    margin-top: 3%;
+  }
+
+  .searchlist {
+    color: black;
+    position: absolute;
+    height: 300px;
+    width: 600px;
+    top: 150px;
+    background-color: yellow;
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .profile {
+    width: 100vw;
+    height: 100vh;
+    align-items: center;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+  }
+  .heading {
+    margin-top: 15px;
+    z-index: 2;
+    position: absolute;
+    width: 60%;
+    bottom: -10px;
+    margin-bottom: 20px;
+    background-color: #f1f1f1;
+    box-shadow: 2px 2px gray;
+
+    border-radius: 35px;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    height: 40px;
+    justify-content: space-evenly;
+  }
+  .mic {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .card {
+    position: absolute;
+    height: 50%;
+    width: 100%;
+    background-color: white;
+    top: 0px;
+    border-radius: 15px;
+  }
+  .logo {
+    display: none;
+  }
+  .profilePic {
+    z-index: 0;
+    top: -100%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    width: 100%;
+    height: 95%;
+  }
+  .Info {
+    z-index: 2;
+    border-radius: 35px;
+    background-color: white;
+    margin-top: 10px;
+    text-align: left;
+    color: black;
+    width: 100%;
+  }
+  .Name {
+    margin-top: -20px;
+    margin-left: 5%;
+    font-weight: bold;
+    font-size: 40px;
+  }
+  .bio {
+    margin-left: 5%;
+    font-size: 15px;
+    margin-top: -30px;
+    font-weight: none;
+  }
+  .question {
+    margin-left: 5%;
+    font-size: 15px;
+    font-weight: bold;
+  }
+  .answer {
+    margin-left: 5%;
+    font-size: 10px;
+    font-weight: none;
+  }
+  .Login {
+    display: none;
+  }
+  .back {
+    display: none;
+    top: -100px;
+  }
+  .Signup {
+    display: none;
+  }
+}
