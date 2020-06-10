@@ -1,7 +1,12 @@
+Kami Ayani
+Matthew Scates
+Catherine Ratana-Kelley
+
+
 for a full version of the code with all the npm modules please go to the link below
 to download the zip file
 
-everything was added to github instead of glitch because glicth didnt have enough memory for our project
+everything was added to github instead of glitch because glitch didnt have enough memory for our project
 
 professor Amenta allowed us to publish our work on github so the project can be graded on the local machine
 
