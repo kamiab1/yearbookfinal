@@ -1,4 +1,4 @@
-Kami Ayanifard, 
+Kamyab Ayanifard, 
 Matthew Scates, 
 Catherine Ratana-Kelley
 
